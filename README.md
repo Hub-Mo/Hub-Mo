@@ -1,6 +1,10 @@
 <div align="center">
 <img src="https://i.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.webp" align="center" style="width: 100%" />
 </div>  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
   
 
 ### <div align="center">Hi 👋, I'm Mohamed, a student full-stack developer 👨‍💻
