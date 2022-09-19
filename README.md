@@ -1,10 +1,10 @@
+### <div align="center">Hi 👋, I'm Mohamed, a student full-stack developer 👨‍💻
+ I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations.</div>  
+  
+
 <div align="center">
 <img src="https://i.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.webp" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">Hi 👋, I'm Mohamed, a student full-stack developer 👨‍💻
- I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations.</div>  
   
 
 
