@@ -2,18 +2,12 @@
  I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations.</div>  
   
 
-<div align="center">
-<img src="https://i.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.webp" align="center" style="width: 100%" />
-</div>  
+
   
 
 
 
 ### I'm currenly looking for an internship  
-<div align="center">
-<img src="https://media1.giphy.com/media/ggnUjyuZ5h5WTwbykm/giphy.gif?cid=ecf05e47sg5tg7fqw1u5vyuxxgt8dm9h7h3ow4z956eskh2c&rid=giphy.gif&ct=g" align="center" height="" width="" />
-</div>  
-  
 
 <br/>  
 
